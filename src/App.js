@@ -19,7 +19,7 @@ function App() {
       <div>
         <img
           src="https://cdn.britannica.com/78/155378-050-838B4322/Himalayas-Nepal.jpg"
-          className="object-cover  "
+          className=" "
           alt="hero"
         />
       </div>
